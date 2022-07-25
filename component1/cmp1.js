@@ -13,7 +13,7 @@ const Cmp1=()=>{
       }}
     >
       <img className='img' src={doulath}/>
-      {/* <Clock value={time} /> */}
+      
     </Resizable>
         
     )
